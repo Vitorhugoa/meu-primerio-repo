@@ -1,0 +1,22 @@
+.card {
+    background-color:violet;
+    width: 500px;
+    height: fit-content;
+    border-radius: 25px;
+    border: solid 5px black;
+    margin: 20px;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    background-image: url('https://cdn-icons-png.flaticon.com/512/706/706830.png');
+    background-size: cover;
+}
+.borde-yellow{
+    border: solid 5px yellow;
+}
+
+.main-color {
+    color:  blue;
+}
